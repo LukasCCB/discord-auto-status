@@ -20,11 +20,11 @@ Anime seu status com este BOT
 
 # Configuração
 - token `String`: Entre na conta do Discord que deseja obter o token **NÃO COMPARTILHE COM NINGUÉM, ESTE TOKEN CONTÉM DADOS ACESSIVEIS DE SUA CONTA** - [Como obter seu Token](#como-obter-seu-token)
-- animation `Array`:
-	- text `String`: Text to display as custom status
-	- emojiID `String|null`: Emoji ID of the emoji you want to display or `null` for nothing - [How to get your emojiID](#how-to-get-your-emojiid)
-	- emojiName `String|null`: Emoji name of the emoji you want to display or `null` for nothing
-	- timeout `Number`: Amount in **milliseconds** how long to wait before continuing to the next one
+- animação `Array`:
+	- text `String`: Texto a ser exibido como status personalizado
+	- emojiID `String|null`: Emoji ID do emoji que você deseja exibir ou `null` para nada - [Como obter o ID de um Emoji](#como-obter-seu-emoji)
+	- emojiName `String|null`:Nome do emoji que você deseja exibir ou `null` para nada
+	- timeout `Number`: Quantidade em **milliseconds** quanto tempo para ser alterado para proximo status.
 
 # Como obter seu Token
 No Discorde abra o console do desenvolvedor usando `CTRL` + `SHIFT` + `I`, ná guia console, insira este código
@@ -36,5 +36,5 @@ var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);f
 
 Agora ele deve exibir seu token, que se parecerá com letras e números aleatórios. Esse é o seu token, copie seu **token**.
 
-# Como obter o ID de um Emoji (Isto vale também para emoji customizados ou animados desde que tenha Discord Nitro)
+# Como obter o ID de um Emoji
 ![](https://media.giphy.com/media/j5bbEYtka86PmVYf8s/giphy.gif)
