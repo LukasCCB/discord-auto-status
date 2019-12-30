@@ -16,7 +16,7 @@ Anime seu status com este BOT
 3. Abrir seu terminal na pasta da repo
 4. Escrever no terminal `npm install`
 5. Renomear `config.json.example` para `config.json` e ajustar conforme seu uso - [Tutorial aqui](#Configuração)
-6. Enter `node index.js`
+6. Em seu terminal digite `node index.js` para o BOT ser executado.
 
 # Configuração
 - token `String`: Entre na conta do Discord que deseja obter o token **NÃO COMPARTILHE COM NINGUÉM, ESTE TOKEN CONTÉM DADOS ACESSIVEIS DE SUA CONTA** - [Como obter seu Token](#como-obter-seu-token)
