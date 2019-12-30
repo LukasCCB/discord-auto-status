@@ -1,0 +1,24 @@
+{
+  "name": "discord-auto-status",
+  "version": "1.0.5",
+  "description": "Alterar Status do Discord Automáticamente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LukasCCB",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasCCB/discord-auto-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LukasCCB/discord-auto-status/issues"
+  },
+  "homepage": "https://github.com/LukasCCB/discord-auto-status#readme"
+}

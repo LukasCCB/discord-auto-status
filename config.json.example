@@ -1,0 +1,11 @@
+{
+	"token": "SEU-TOKEN-AQUI",
+	"animation": [
+		{
+			"text": "TEXTO A MOSTRAR",
+			"emojiID": "ID-DO-EMOJI",
+			"emojiName": "NOME-DO-EMOJI",
+			"timeout": 10000
+		}
+	]
+}
