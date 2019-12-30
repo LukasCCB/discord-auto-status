@@ -37,4 +37,4 @@ var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);f
 Agora ele deve exibir seu token, que se parecerá com letras e números aleatórios. Esse é o seu token, copie seu **token**.
 
 # Como obter o ID de um Emoji (Isto vale também para emoji customizados ou animados desde que tenha Discord Nitro)
-![](https://i.imgur.com/PgN3LTo.mp4)
+![](https://media.giphy.com/media/j5bbEYtka86PmVYf8s/giphy.gif)
